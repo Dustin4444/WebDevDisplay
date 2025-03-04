@@ -1,5 +1,9 @@
-# Vue 3 + TypeScript + Vite
+# Notes
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+- with the current font, each letter is 8px wide with 1px between letters
+- the timer is 10 characters across (90px)
+- total canvas width is 288x10
+- if we make two canvases, we have:
+  - timer:     90 x 10
+  - message:  198 x 10
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
